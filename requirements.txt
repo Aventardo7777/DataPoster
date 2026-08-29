@@ -1,0 +1,10 @@
+# DataPoster 零依赖运行 —— 只用 Python 标准库。
+#
+# 故意保持空清单：本项目不依赖任何第三方包，
+# 安装与使用全程仅需 Python ≥ 3.8 解释器本身。
+#
+# 如果哪天你 fork 后加上了新依赖，记得把依赖写回这里：
+#   pip freeze > requirements.txt
+#
+# 当前 Python 版本下限：
+# - 3.8+（用到 statistics.fmean / PEP 572 海象操作在 3.8 起可用）

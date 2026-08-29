@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1440' width='1080' height='1440' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif">
+<rect width='1080' height='1440' fill='#F5F2FC'/>
+<rect x='0' y='0' width='1080' height='330' fill='#6C3FC5'/>
+<circle cx='985' cy='52' r='150' fill='#A98BEA' opacity='0.16'/>
+<circle cx='1020' cy='30' r='88' fill='#A98BEA' opacity='0.28'/>
+<text x='72' y='84' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='bold' fill='#F5F2FC' text-anchor='start' letter-spacing='6'>DATA POSTER</text>
+<text x='1008' y='84' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='normal' fill='#F5F2FC' text-anchor='end' opacity='0.85'>2026.08.29</text>
+<text x='72' y='190' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='66' font-weight='bold' fill='#F5F2FC' text-anchor='start'>中国城市经济版图</text>
+<rect x='72' y='222' width='132' height='12' rx='6' fill='#A98BEA'/>
+<text x='72' y='286' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='28' font-weight='normal' fill='#F5F2FC' text-anchor='start' opacity='0.9'>赛博紫主题演示</text>
+<text x='72' y='404' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#7A6E9B' text-anchor='start' letter-spacing='3'>合计 · 亿元</text>
+<text x='72' y='564' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='128' font-weight='bold' fill='#4B1E9E' text-anchor='start'>466,770</text>
+<rect x='596' y='370' width='412' height='226' rx='26' fill='#EAE2FA'/>
+<text x='630' y='426' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#6C3FC5' text-anchor='start' letter-spacing='4'>TOP 1</text>
+<text x='630' y='496' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='46' font-weight='bold' fill='#241B3A' text-anchor='start'>上海</text>
+<text x='630' y='556' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='38' font-weight='bold' fill='#6C3FC5' text-anchor='start'>53,926 亿元</text>
+<rect x='72' y='680' width='216' height='158' rx='20' fill='#EAE2FA'/>
+<text x='98' y='736' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='bold' fill='#7A6E9B' text-anchor='start'>样本数</text>
+<text x='98' y='798' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='40' font-weight='bold' fill='#241B3A' text-anchor='start'>20</text>
+<rect x='312' y='680' width='216' height='158' rx='20' fill='#EAE2FA'/>
+<text x='338' y='736' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='bold' fill='#7A6E9B' text-anchor='start'>平均值</text>
+<text x='338' y='798' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='35' font-weight='bold' fill='#241B3A' text-anchor='start'>23,338.5</text>
+<rect x='552' y='680' width='216' height='158' rx='20' fill='#EAE2FA'/>
+<text x='578' y='736' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='bold' fill='#7A6E9B' text-anchor='start'>最大值</text>
+<text x='578' y='798' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='40' font-weight='bold' fill='#241B3A' text-anchor='start'>53,926</text>
+<rect x='792' y='680' width='216' height='158' rx='20' fill='#EAE2FA'/>
+<text x='818' y='736' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='bold' fill='#7A6E9B' text-anchor='start'>最小值</text>
+<text x='818' y='798' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='40' font-weight='bold' fill='#241B3A' text-anchor='start'>13,094</text>
+<text x='72' y='942' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='32' font-weight='bold' fill='#241B3A' text-anchor='start'>TOP 6 · 城市 排行</text>
+<text x='78' y='1015' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#7A6E9B' text-anchor='start'>01</text>
+<text x='312' y='1015' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#241B3A' text-anchor='end'>上海</text>
+<rect x='330' y='992.5' width='540' height='30' rx='15' fill='#EAE2FA'/>
+<rect x='330' y='992.5' width='540' height='30' rx='15' fill='#4B1E9E'/>
+<text x='892' y='1015' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#241B3A' text-anchor='start'>53,926</text>
+<text x='78' y='1074' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#7A6E9B' text-anchor='start'>02</text>
+<text x='312' y='1074' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#241B3A' text-anchor='end'>北京</text>
+<rect x='330' y='1051.5' width='540' height='30' rx='15' fill='#EAE2FA'/>
+<rect x='330' y='1051.5' width='499' height='30' rx='15' fill='#6C3FC5'/>
+<text x='892' y='1074' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#241B3A' text-anchor='start'>49,843</text>
+<text x='78' y='1133' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#7A6E9B' text-anchor='start'>03</text>
+<text x='312' y='1133' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#241B3A' text-anchor='end'>深圳</text>
+<rect x='330' y='1110.5' width='540' height='30' rx='15' fill='#EAE2FA'/>
+<rect x='330' y='1110.5' width='368' height='30' rx='15' fill='#A98BEA'/>
+<text x='892' y='1133' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#241B3A' text-anchor='start'>36,801</text>
+<text x='78' y='1192' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#7A6E9B' text-anchor='start'>04</text>
+<text x='312' y='1192' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#241B3A' text-anchor='end'>重庆</text>
+<rect x='330' y='1169.5' width='540' height='30' rx='15' fill='#EAE2FA'/>
+<rect x='330' y='1169.5' width='322' height='30' rx='15' fill='#6C3FC5'/>
+<text x='892' y='1192' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#241B3A' text-anchor='start'>32,193</text>
+<text x='78' y='1251' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#7A6E9B' text-anchor='start'>05</text>
+<text x='312' y='1251' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#241B3A' text-anchor='end'>广州</text>
+<rect x='330' y='1228.5' width='540' height='30' rx='15' fill='#EAE2FA'/>
+<rect x='330' y='1228.5' width='310' height='30' rx='15' fill='#A98BEA'/>
+<text x='892' y='1251' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#241B3A' text-anchor='start'>31,032</text>
+<text x='78' y='1310' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#7A6E9B' text-anchor='start'>06</text>
+<text x='312' y='1310' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#241B3A' text-anchor='end'>苏州</text>
+<rect x='330' y='1287.5' width='540' height='30' rx='15' fill='#EAE2FA'/>
+<rect x='330' y='1287.5' width='267' height='30' rx='15' fill='#6C3FC5'/>
+<text x='892' y='1310' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#241B3A' text-anchor='start'>26,726</text>
+<text x='1008' y='942' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='normal' fill='#7A6E9B' text-anchor='end'>单位: 亿元</text>
+<line x1='72' y1='1364' x2='1008' y2='1364' stroke='#7A6E9B' stroke-width='2' opacity='0.35'/>
+<text x='72' y='1398' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='bold' fill='#7A6E9B' text-anchor='start' letter-spacing='2'>DATA POSTER · 数据可视化为一见倾心而生</text>
+<text x='1008' y='1398' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='normal' fill='#7A6E9B' text-anchor='end'>Generated 2026.08.29 · DataPoster v1.0</text>
+</svg>

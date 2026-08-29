@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1440' width='1080' height='1440' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif">
+<rect width='1080' height='1440' fill='#F7F7F5'/>
+<rect x='0' y='0' width='1080' height='330' fill='#1A1A1A'/>
+<circle cx='985' cy='52' r='150' fill='#B9B9B9' opacity='0.16'/>
+<circle cx='1020' cy='30' r='88' fill='#B9B9B9' opacity='0.28'/>
+<text x='72' y='84' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='bold' fill='#F7F7F5' text-anchor='start' letter-spacing='6'>DATA POSTER</text>
+<text x='1008' y='84' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='normal' fill='#F7F7F5' text-anchor='end' opacity='0.85'>2026.08.29</text>
+<text x='72' y='190' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='66' font-weight='bold' fill='#F7F7F5' text-anchor='start'>千年王朝寿命榜</text>
+<rect x='72' y='222' width='132' height='12' rx='6' fill='#B9B9B9'/>
+<text x='72' y='286' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='28' font-weight='normal' fill='#F7F7F5' text-anchor='start' opacity='0.9'>中国主要朝代存续年数 · 演示数据</text>
+<text x='72' y='404' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#8C8C8C' text-anchor='start' letter-spacing='3'>最大值 · 年</text>
+<text x='72' y='564' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='150' font-weight='bold' fill='#C0392B' text-anchor='start'>790</text>
+<rect x='596' y='370' width='412' height='226' rx='26' fill='#ECECE8'/>
+<text x='630' y='426' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#1A1A1A' text-anchor='start' letter-spacing='4'>TOP 1</text>
+<text x='630' y='496' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='46' font-weight='bold' fill='#1A1A1A' text-anchor='start'>周</text>
+<text x='630' y='556' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='38' font-weight='bold' fill='#1A1A1A' text-anchor='start'>790 年</text>
+<rect x='72' y='680' width='216' height='158' rx='20' fill='#ECECE8'/>
+<text x='98' y='736' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='bold' fill='#8C8C8C' text-anchor='start'>样本数</text>
+<text x='98' y='798' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='40' font-weight='bold' fill='#1A1A1A' text-anchor='start'>15</text>
+<rect x='312' y='680' width='216' height='158' rx='20' fill='#ECECE8'/>
+<text x='338' y='736' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='bold' fill='#8C8C8C' text-anchor='start'>平均值</text>
+<text x='338' y='798' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='40' font-weight='bold' fill='#1A1A1A' text-anchor='start'>266.5</text>
+<rect x='552' y='680' width='216' height='158' rx='20' fill='#ECECE8'/>
+<text x='578' y='736' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='bold' fill='#8C8C8C' text-anchor='start'>最大值</text>
+<text x='578' y='798' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='40' font-weight='bold' fill='#1A1A1A' text-anchor='start'>790</text>
+<rect x='792' y='680' width='216' height='158' rx='20' fill='#ECECE8'/>
+<text x='818' y='736' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='bold' fill='#8C8C8C' text-anchor='start'>最小值</text>
+<text x='818' y='798' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='40' font-weight='bold' fill='#1A1A1A' text-anchor='start'>15</text>
+<text x='72' y='942' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='32' font-weight='bold' fill='#1A1A1A' text-anchor='start'>TOP 10 · 朝代 排行</text>
+<text x='78' y='1003' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#8C8C8C' text-anchor='start'>01</text>
+<text x='312' y='1003' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#1A1A1A' text-anchor='end'>周</text>
+<rect x='330' y='985.2' width='540' height='21' rx='10' fill='#ECECE8'/>
+<rect x='330' y='985.2' width='540' height='21' rx='10' fill='#C0392B'/>
+<text x='892' y='1003' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#1A1A1A' text-anchor='start'>790</text>
+<text x='78' y='1039' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#8C8C8C' text-anchor='start'>02</text>
+<text x='312' y='1039' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#1A1A1A' text-anchor='end'>商</text>
+<rect x='330' y='1020.6' width='540' height='21' rx='10' fill='#ECECE8'/>
+<rect x='330' y='1020.6' width='378' height='21' rx='10' fill='#1A1A1A'/>
+<text x='892' y='1039' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#1A1A1A' text-anchor='start'>554</text>
+<text x='78' y='1074' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#8C8C8C' text-anchor='start'>03</text>
+<text x='312' y='1074' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#1A1A1A' text-anchor='end'>夏</text>
+<rect x='330' y='1056.0' width='540' height='21' rx='10' fill='#ECECE8'/>
+<rect x='330' y='1056.0' width='321' height='21' rx='10' fill='#B9B9B9'/>
+<text x='892' y='1074' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#1A1A1A' text-anchor='start'>470</text>
+<text x='78' y='1109' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#8C8C8C' text-anchor='start'>04</text>
+<text x='312' y='1109' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#1A1A1A' text-anchor='end'>汉</text>
+<rect x='330' y='1091.4' width='540' height='21' rx='10' fill='#ECECE8'/>
+<rect x='330' y='1091.4' width='291' height='21' rx='10' fill='#1A1A1A'/>
+<text x='892' y='1109' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#1A1A1A' text-anchor='start'>426</text>
+<text x='78' y='1145' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#8C8C8C' text-anchor='start'>05</text>
+<text x='312' y='1145' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#1A1A1A' text-anchor='end'>宋</text>
+<rect x='330' y='1126.8' width='540' height='21' rx='10' fill='#ECECE8'/>
+<rect x='330' y='1126.8' width='218' height='21' rx='10' fill='#B9B9B9'/>
+<text x='892' y='1145' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#1A1A1A' text-anchor='start'>319</text>
+<text x='78' y='1180' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#8C8C8C' text-anchor='start'>06</text>
+<text x='312' y='1180' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#1A1A1A' text-anchor='end'>唐</text>
+<rect x='330' y='1162.2' width='540' height='21' rx='10' fill='#ECECE8'/>
+<rect x='330' y='1162.2' width='197' height='21' rx='10' fill='#1A1A1A'/>
+<text x='892' y='1180' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#1A1A1A' text-anchor='start'>289</text>
+<text x='78' y='1216' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#8C8C8C' text-anchor='start'>07</text>
+<text x='312' y='1216' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#1A1A1A' text-anchor='end'>明</text>
+<rect x='330' y='1197.6' width='540' height='21' rx='10' fill='#ECECE8'/>
+<rect x='330' y='1197.6' width='188' height='21' rx='10' fill='#B9B9B9'/>
+<text x='892' y='1216' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#1A1A1A' text-anchor='start'>276</text>
+<text x='78' y='1251' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#8C8C8C' text-anchor='start'>08</text>
+<text x='312' y='1251' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#1A1A1A' text-anchor='end'>清</text>
+<rect x='330' y='1233.0' width='540' height='21' rx='10' fill='#ECECE8'/>
+<rect x='330' y='1233.0' width='183' height='21' rx='10' fill='#1A1A1A'/>
+<text x='892' y='1251' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#1A1A1A' text-anchor='start'>268</text>
+<text x='78' y='1286' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#8C8C8C' text-anchor='start'>09</text>
+<text x='312' y='1286' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#1A1A1A' text-anchor='end'>南北朝</text>
+<rect x='330' y='1268.4' width='540' height='21' rx='10' fill='#ECECE8'/>
+<rect x='330' y='1268.4' width='115' height='21' rx='10' fill='#B9B9B9'/>
+<text x='892' y='1286' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#1A1A1A' text-anchor='start'>169</text>
+<text x='78' y='1322' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#8C8C8C' text-anchor='start'>10</text>
+<text x='312' y='1322' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='23' font-weight='bold' fill='#1A1A1A' text-anchor='end'>晋</text>
+<rect x='330' y='1303.8' width='540' height='21' rx='10' fill='#ECECE8'/>
+<rect x='330' y='1303.8' width='105' height='21' rx='10' fill='#1A1A1A'/>
+<text x='892' y='1322' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='24' font-weight='bold' fill='#1A1A1A' text-anchor='start'>155</text>
+<text x='1008' y='942' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='normal' fill='#8C8C8C' text-anchor='end'>单位: 年</text>
+<line x1='72' y1='1364' x2='1008' y2='1364' stroke='#8C8C8C' stroke-width='2' opacity='0.35'/>
+<text x='72' y='1398' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='bold' fill='#8C8C8C' text-anchor='start' letter-spacing='2'>DATA POSTER · 数据可视化为一见倾心而生</text>
+<text x='1008' y='1398' font-family="'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size='22' font-weight='normal' fill='#8C8C8C' text-anchor='end'>Generated 2026.08.29 · DataPoster v1.0</text>
+</svg>
